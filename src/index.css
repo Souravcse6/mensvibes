@@ -1,0 +1,20 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-accent-lightgreen: #34d399;
+    --color-accent-emerald: #10b981;
+  }
+}
+
+.text-lightgreen {
+  color: #34d399;
+}
+
+.bg-lightgreen {
+  background-color: #34d399;
+}
+
+.border-lightgreen {
+  border-color: #34d399;
+}
